@@ -24,4 +24,4 @@ This is a central document which contains all the commands and code files used t
    [PlDg]: <https://github.com/zealvora/certified-kubernetes-security-specialist/tree/master/domain-6-monitor-log-runtimesec>
 
 
-https://docs.google.com/document/d/1TNrJ9YKlB7tYePZ6VtFZAhSzCisSwFdxB5WFrMw8NYU/edit
+CIS benchmark link: https://docs.google.com/document/d/1TNrJ9YKlB7tYePZ6VtFZAhSzCisSwFdxB5WFrMw8NYU/edit
