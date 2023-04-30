@@ -27,3 +27,6 @@ The code mentioned in this document are used in the Certified Kubernetes Securit
 
    [PlDf]: <https://github.com/zealvora/certified-kubernetes-security-specialist/blob/master/domain-2-cluster-hardening/sa-security.md>
    [PlDg]: <https://github.com/zealvora/certified-kubernetes-security-specialist/blob/master/domain-2-cluster-hardening/kubeadm-version.md>
+
+
+Lecture Notes: https://docs.google.com/document/d/1Lzc8unBbLohQTTRkH7mA77ox6UuEKbWF3dWoFZl8br8/edit
